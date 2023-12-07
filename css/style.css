@@ -306,7 +306,7 @@ img {
   font-size: var(--biggest-font-size);
 }
 .home-image {
-  width: 160px;
+  max-width:40%;
 }
 .home-handel {
   justify-self: center;
